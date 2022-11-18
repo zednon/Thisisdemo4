@@ -1,0 +1,14 @@
+header {
+    background-color: blanchedalmond;
+    height: 150px;
+}
+
+main {
+    background-color: green;
+    height: 400px;
+}
+
+footer {
+    background-color: orange;
+    height: 200px;
+}
